@@ -1,14 +1,9 @@
+<h1>School</h1>
 
+It is a software that enables interactive communication between students and teachers.
 
-<h1>Okul</h1>
+<h2>This project has been developed using HTML and CSS.</h2>
 
-Öğrenciler ve öğretmenler arasında interaktif bağlantı kurabilen bir yazılımdır.
+![](assets/school.gif)
 
-<h2>Harici Teknolojiler</h2>
-
-HTML ve CSS kullanılmıştır.
-
-<h2>Ekran</h2>
-
-![](school.gif)
 
